@@ -13,16 +13,5 @@ Puerto Rico’s existing crisis, further intensified by the damage left behind b
 
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-## R Markdown
-<div style= "float:right;position: relative; top: -80px;">
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-</div>
-
-
 ![Should Work This Time](/puerto_rico_now/images/future_scenarios/PotentialFutures_Flag.png)
+<img align="right" src="doc/subpagelist.png">
